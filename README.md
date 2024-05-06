@@ -11,3 +11,5 @@ Intuitive Interface: The graphical user interface (GUI) provides a user-friendly
 
 # Purpose
 This project serves as an educational resource for learning Java programming concepts, particularly in the context of object-oriented programming (OOP) and graphical user interface (GUI) development using Java Swing. Additionally, it offers a practical example of implementing a simple banking system, which can be extended and customized for various purposes.
+
+# Author - Mihir Patel
